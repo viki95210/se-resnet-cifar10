@@ -1,0 +1,4 @@
+Model,Parameters,Best Test Accuracy (%),Best Epoch,Training Time (minutes)
+Baseline ResNet,11173962,88.18,99,48.30593959490458
+SE-ResNet (r=16),11263042,88.53,66,72.51713083585103
+Best Ablation (r=8),11350202,88.53,34,22.679286881287894
